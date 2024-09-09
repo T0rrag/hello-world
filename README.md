@@ -3,7 +3,7 @@
 
 int main ()
 {
-  printf("As per "Github flow, this hello world has been reworked");
+  printf("As per "Github flow, this hello world has been reworked twice");
   return 0;
 }
 
